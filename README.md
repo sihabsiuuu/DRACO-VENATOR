@@ -80,8 +80,4 @@ For a detailed report on the project, download it here:
 
 ## Contact Information
 For any queries or contributions, feel free to reach out to:
-- **Sihab Hasan**: [Your Contact Info]
-
-## License
-This project is licensed under the MIT License.
-
+- **Sihab Hasan**: [AERIS](https://sites.google.com/view/aeris60)
