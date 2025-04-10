@@ -74,10 +74,6 @@ Here are some game screenshots to showcase the interface and gameplay:
 ## Gameplay Video
 Watch the game in action: [Draco Venator - Gameplay Video](https://youtu.be/XTSRDE4_Rno?si=ipIccaWT0hA5fB8b)
 
-
-## Background Videos
-[Purple Background Video](https://github.com/user-attachments/assets/53b7fc9e-d9b7-4329-8af2-ba2c5c328084)
-
 ## Project Report
 For a detailed report on the project, download it here:
 [Download Project Report PDF](https://github.com/user-attachments/files/19325822/Sample.Project.Final.Report.CSE.1200.pdf)
