@@ -54,9 +54,9 @@ To run this game, you need:
 
 
 ## Contributors
-- **[Sihab Hasan](https://sites.google.com/view/aeris60)** (Project Lead)
-- **[Nazifa Haque](https://www.facebook.com/nazifa989)** (Gameplay Designer)
-- **[Israt Jahan Khan](https://www.facebook.com/jahan.munia.50)** (Graphics and Animation Specialist)
+- **[Sihab Hasan](https://sites.google.com/view/aeris60)**
+- **[Nazifa Haque](https://www.facebook.com/nazifa989)**
+- **[Israt Jahan Khan](https://www.facebook.com/jahan.munia.50)**
 
 
 ## Screenshots
